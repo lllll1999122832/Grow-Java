@@ -1,0 +1,13 @@
+SVN linbaolai NWIwYWQ1
+
+VPN linbaolai AKMEnELI
+
+重新编译
+/spd/back   
+./wms50BackDeploy.sh
+
+日志  
+/spd/log/502_wmsorder
+
+
+wms 账户：whadmin 密码：12345

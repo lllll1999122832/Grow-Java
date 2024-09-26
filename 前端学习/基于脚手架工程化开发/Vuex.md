@@ -1,0 +1,103 @@
+# Vuex介绍
+
+![image-20240723204316934](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723204316934.png)
+
+# 创建一个仓库
+
+![image-20240723210319769](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723210319769.png)
+
+![image-20240723214323334](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723214323334.png)
+
+# 如何使用
+
+![image-20240723214646160](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723214646160.png)
+
+# Vuex辅助函数 mapState
+
+![image-20240723220208412](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723220208412.png)
+
+![image-20240723215955889](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723215955889.png)
+
+# Vuex数据修改 mutations
+
+## vuex同样是单向数据流
+
+![image-20240723220535536](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723220535536.png)
+
+![image-20240723221120352](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723221120352.png)
+
+# mutations
+
+![image-20240723221753234](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723221753234.png)
+
+![image-20240723222538313](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723222538313.png)
+
+![image-20240723223240533](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723223240533.png)
+
+## 直接传对象
+
+![image-20240723223810076](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723223810076.png)
+
+# mapMutations
+
+![image-20240723225203826](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723225203826.png)
+
+## 同时导入VueX中两个辅助函数
+
+![image-20240723230329556](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240723230329556.png)
+
+# Actions
+
+![image-20240724203610516](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724203610516.png)
+
+![image-20240724204634341](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724204634341.png)
+
+![image-20240724205022708](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724205022708.png)
+
+# Getters
+
+## 只有获取，没有修改，类似计算属性（computed）
+
+![image-20240724210040557](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724210040557.png)
+
+![image-20240724211428099](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724211428099.png)
+
+# 模块的拆分 modules
+
+![image-20240724211419695](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724211419695.png)
+
+![image-20240724212428813](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724212428813.png)
+
+![image-20240724212641828](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724212641828.png)
+
+![image-20240724212806210](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724212806210.png)
+
+## 如何访问模块中的数据
+
+![image-20240724213000033](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724213000033.png)
+
+### 模块映射，需要开启命名空间
+
+![image-20240724214026174](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724214026174.png)
+
+![image-20240724214034588](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724214034588.png)
+
+![image-20240724214824076](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724214824076.png)
+
+![image-20240724215459652](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724215459652.png)
+
+![image-20240724220657110](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724220657110.png)
+
+![image-20240724221017979](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724221017979.png)
+
+![image-20240724222239183](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724222239183.png)
+
+# 模块新的写法
+
+![image-20240724223647062](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240724223647062.png)
+
+![image-20240801215157950](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240801215157950.png)
+
+# Getting中可以拿其他的 Getting
+
+![image-20240822215905885](E:/Markdown/%E5%9B%BE%E7%89%87/image-20240822215905885.png)

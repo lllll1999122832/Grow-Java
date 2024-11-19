@@ -55,7 +55,7 @@
 
 假设一个组件是一个大型组件，其内部有很多处理逻辑关注点（对应下图不用颜色）
 
- ![](https://static.vue-js.com/dc83d070-6048-11eb-ab90-d9ae814b240d.png)
+ <img src="https://static.vue-js.com/dc83d070-6048-11eb-ab90-d9ae814b240d.png" style="zoom:200%;" />
 
 
 

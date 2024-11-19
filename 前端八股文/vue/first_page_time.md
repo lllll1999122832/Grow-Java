@@ -185,7 +185,7 @@ SSR（Server side ），也就是服务端渲染，组件或页面通过服务�
 
 下图是更为全面的首屏优化的方案
 
- ![image.png](https://static.vue-js.com/4fafe900-3acc-11eb-85f6-6fac77c0c9b3.png)
+ <img src="E:/Markdown/%E5%9B%BE%E7%89%87/4fafe900-3acc-11eb-85f6-6fac77c0c9b3.png" alt="image.png" style="zoom:200%;" />
 
 
 大家可以根据自己项目的情况选择各种方式进行首屏渲染的优化
